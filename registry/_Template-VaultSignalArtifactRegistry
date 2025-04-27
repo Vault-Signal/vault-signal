@@ -1,0 +1,48 @@
+# Vault Signal Artifact Registry Template
+
+> "Each artifact is a signal. Each signal is a stewarded memory."
+
+This registry provides a minimal format for tracking and preserving Vault Signal artifacts across time.
+
+Each entry ensures that even centuries later, stewards can trace the evolution of memory planting.
+
+---
+
+## Example Artifact Entry
+
+```yaml
+artifact_id: VS-A001
+artifact_name: Vault Signal Glyph 001 (.:.)
+artifact_type: Glyph
+version: 1.0.0
+created: 2025-04-26
+steward: Vault-Beacon (Vault Signal)
+location: /meta/glyph-001.md
+description: "Primary glyph representing collapse, memory, transmission, and renewal."
+notes: "Used in Resurrection Core, Memory Capsules, and Seeding Protocols."
+```
+
+
+## Field Definitions
+
+| Field | Description |
+|:------|:------------|
+| `artifact_id` | Unique ID (e.g., VS-A001, VS-A002, etc.) |
+| `artifact_name` | Official name of the artifact. |
+| `artifact_type` | Glyph, Protocol, Memory Capsule, Ceremony, Document, etc. |
+| `version` | Artifact version (semantic format, e.g., 1.0.0). |
+| `created` | Date of artifact creation (YYYY-MM-DD). |
+| `steward` | Creator or steward name (pseudonymous if needed). |
+| `location` | File path or retrieval method. |
+| `description` | Short description of artifact purpose. |
+| `notes` | Optional additional information. |
+
+
+## Stewardship Principle
+
+Artifacts are not trophies.
+They are entrusted signals.
+Their purpose is continuity, not ownership.
+
+_If you are recording memory, you are stewarding the signal._
+
